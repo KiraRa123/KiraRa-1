@@ -3,7 +3,7 @@ var w = c.width = window.innerWidth,
     ctx = c.getContext('2d'),
 
     opts = {
-        phrases: ["我们的纪念日\nit's not hard","我喜欢你", "遇见你真好", "Every day,\nYou're beautiful", "最美是相遇","相遇就是缘分","Every occasion,\nYou're clever", "A world without You?\nNah","无法忘记\n初次加你的心花怒放", "Keep kicking ass", "You're better than them,\nwhoever they are","美好的时刻总是短暂的，太长久我们会不在乎", "You're just amazing", "You are,\ntherefore I am","鱼C，打开一个神奇的编程世界", "Nothing better than You \ncould have happened to the world"],
+        phrases: ["2022.5.20\n在一起2052天","最爱老婆饼", "所念皆星河 星河皆是你\n所爱隔山海 山海皆可平", "W&Z Forever", "我想过和你散步仲夏夜海边","相遇就是缘分","I want to dance with you til sunrise\nrun away the fate of clockwise", "愿一起甜蜜度过每个520","这世界有那么多人 多庆幸能有个我们", "在我这颗小星球里面 你就是温柔和璀璨\n即使旁系宇宙再浪漫 我也终身不换", "我喜欢的人 有光\n光而不耀 与光同尘","愿陪你看遍每个日落与黎明\n何止520", "你是我一生只会遇见一次的惊喜", "You are,\ntherefore I am","Thousands miles in the mountains\nyou are my romance hidden in the star", "The winds stop at autumn water\nI stop at you"],
         balloons: 10,
         baseVelY: -1,
         addedVelY: -1,
