@@ -1,0 +1,17 @@
+body {
+    overflow: hidden;
+  }
+
+  canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  #c{
+    z-index: 1;
+  }
+  #d{
+    z-index: 2;
+    opacity: 0.2;
+  }
