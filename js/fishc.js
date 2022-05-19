@@ -3,7 +3,7 @@ var w = c.width = window.innerWidth,
     ctx = c.getContext('2d'),
 
     opts = {
-        phrases: ["2022.5.20\n在一起2052天","最爱老婆饼", "所念皆星河 星河皆是你\n所爱隔山海 山海皆可平", "W&Z Forever", "我想过和你散步仲夏夜海边","相遇就是缘分","I want to dance with you til sunrise\nrun away the fate of clockwise", "愿一起甜蜜度过每个520","这世界有那么多人 多庆幸能有个我们", "在我这颗小星球里面 你就是温柔和璀璨\n即使旁系宇宙再浪漫 我也终身不换", "我喜欢的人 有光\n光而不耀 与光同尘","愿陪你看遍每个日落与黎明\n何止520", "你是我一生只会遇见一次的惊喜", "You are,\ntherefore I am","Thousands miles in the mountains\nyou are my romance hidden in the star", "The winds stop at autumn water\nI stop at you"],
+        phrases: ["2022.5.20\n在一起2052天","最爱老婆饼", "所念皆星河 星河皆是你\n\n所爱隔山海 山海皆可平", "W&Z Forever", "我想过和你散步仲夏夜海边","相遇就是缘分","I want to dance with you til sunrise\nrun away the fate of clockwise", "愿一起甜蜜度过每个520","这世界有那么多人 多庆幸能有个我们", "在我这颗小星球里面 你就是温柔和璀璨\n即使旁系宇宙再浪漫 我也终身不换", "我喜欢的人 有光\n光而不耀 与光同尘","愿陪你看遍每个日落与黎明\n何止520", "你是我一生只会遇见一次的惊喜", "You are,\ntherefore I am","Thousands miles in the mountains\nyou are my romance hidden in the star", "The winds stop at autumn water\nI stop at you"],
         balloons: 10,
         baseVelY: -1,
         addedVelY: -1,
